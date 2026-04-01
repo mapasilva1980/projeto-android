@@ -208,8 +208,8 @@ footer > p > a {
 }
 
 footer a:hover {
-  text-decoration: underline;
-  color: var(--cor1);
+  background-color: aqua;
+  color: var(--cor5);
 }
 
   
